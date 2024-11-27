@@ -5,7 +5,9 @@ import Main from './layouts/Main.vue';
 </script>
 
 <template>
-  <Main />
+  <div class="bg-gray-900">
+    <Main></Main>
+  </div>
 </template>
 
 <style scoped>
